@@ -25,7 +25,7 @@ int main() {
 }
 */
 
-/*    ******TASK 2******  
+/*    ******TASK 2******
 #include <iostream>
 using namespace std;
 
@@ -49,7 +49,7 @@ int main() {
 }
 */
 
-/*    ******TASK 3****** 
+/*    ******TASK 3******
 #include <iostream>
 using namespace std;
 
